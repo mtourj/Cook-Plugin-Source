@@ -1,0 +1,9 @@
+name: Cook
+version: 1.4
+main: cook.Cook
+description: |
+              Cook command.
+commands:
+  cook:
+    description: Cooks the item in hand.
+    permission: cook.command
