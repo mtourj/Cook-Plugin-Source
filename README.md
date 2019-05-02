@@ -1,4 +1,6 @@
 Cook-Plugin-Source
 ==================
 
-Source code for my plugin 'Cook'
+This is a server-side plugin for the game "Minecraft".
+
+Made using Java
